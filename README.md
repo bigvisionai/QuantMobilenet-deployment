@@ -1,1 +1,0 @@
-# QuantMobilenet-deployment
